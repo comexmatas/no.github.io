@@ -9545,7 +9545,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 773338;ACO Sun Face Mattifying SPF50, UP50;ACO;Skin care;;https://www.kicks.no/sok?search-query=773338;;;9543;773338
 1008347;Dore and Rose Regular Sleep Mask Olive;Dore & Rose;Sleep and relaxation;C;https://www.kicks.no/sok?search-query=1008347;;https://images.matas.dk/encode/8720865052717_1_20241025180251.jpg;9544;1008347
 1002822;LAP Life Matrix Haute-Rejuvenation Cream 50 ML;La Prairie;Skin care;C;https://www.kicks.no/sok?search-query=1002822;;https://images.matas.dk/encode/7611773145589_20240909133214.jpg;9545;1002822
-1019948;MONDAY Haircare Anti-Frizz Hair Mask 250 mL (W);MONDAY;Hair care and styling;;https://www.kicks.no/sok?search-query=1019948;;https://images.matas.dk/encode/4895248003991_20250923121100.jpg;9546;1019948
+1019948;MONDAY Haircare Anti-Frizz Hair Mask 250 mL (W);MONDAY;Hair care and styling;;https://www.kicks.no/sok?search-query=1019948;69.00;https://images.matas.dk/encode/4895248003991_20250923121100.jpg;9546;1019948
 832269;RC Inner Care 75ml;Rudolph Care;Personal care;C;https://www.kicks.no/sok?search-query=832269;;https://images.matas.dk/encode/5710111003672_20240221133549.jpg;9547;832269
 816514;NJ Face Feature Highlighter Stick 7705 Starlight (G;Nilens Jord;Makeup;;https://www.kicks.no/sok?search-query=816514;;https://images.matas.dk/encode/816514_1_20240924071526.jpg;9548;816514
 821870;KVD Beauty Sets Queen Of Poisons Lip duo (P);KVD Beauty;Makeup;C;https://www.kicks.no/sok?search-query=821870;;https://images.matas.dk/encode/840026665889_20231106152817.jpg;9549;821870
@@ -26554,7 +26554,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 774228;Givenchy L’Interdit Intense EDP 50 ML;Givenchy;Fragrances;C;https://www.kicks.no/sok?search-query=774228;;https://images.matas.dk/encode/774228_1.jpg;26552;774228
 10354934;Balmain Destin EdP Refill 150 ml;Balmain;Fragrances;C;https://www.kicks.no/sok?search-query=10354934;;https://images.matas.dk/encode/840355900484_20260223113300.jpg;26553;10354934
 771743;Redken ABC Leave-In Treatment 150 ml;Redken;Hair care and styling;AA;https://www.kicks.no/sok?search-query=771743;;https://images.matas.dk/encode/884486456380_20251118180234.jpg;26554;771743
-837177;MONDAY Conditioner Volume 350 ml FLP;MONDAY;Hair care and styling;;https://www.kicks.no/sok?search-query=837177;;https://images.matas.dk/encode/837177_20240926103334.jpg;26555;837177
+837177;MONDAY Conditioner Volume 350 ml FLP;MONDAY;Hair care and styling;;https://www.kicks.no/sok?search-query=837177;69.00;https://images.matas.dk/encode/837177_20240926103334.jpg;26555;837177
 890744;BP A-Vitamin Creme 50 ml;Beauté Pacifique;Skin care;C;https://www.kicks.no/sok?search-query=890744;;https://images.matas.dk/encode/890744_1.jpg;26556;890744
 825551;YSL LOVESHINE CANDY GLOW TINTED LIP BALM ROSEWOOD BLU;Yves Saint Laurent;Makeup;B;https://www.kicks.no/sok?search-query=825551;;https://images.matas.dk/encode/3614274128284_20240920113552.jpg;26557;825551
 783647;Mario Badescu Facial Spray With Aloe And Coconut 118 ml;Mario Badescu;Skin care;;https://www.kicks.no/sok?search-query=783647;;https://images.matas.dk/encode/783647.jpg;26558;783647
@@ -28378,7 +28378,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 841625;RIM Multi Tasker Concealer Foundation Rose Ivory 025;Rimmel;Makeup;C;https://www.kicks.no/sok?search-query=841625;;https://images.matas.dk/encode/3616305714848_20240919153511.jpg;28376;841625
 695006;MAC Eyeshadow 1,5g Brun (G);MAC;Makeup;A;https://www.kicks.no/sok?search-query=695006;;https://images.matas.dk/encode/695006_1.jpg;28377;695006
 839692;Elf No Budge Shadow Stick Champagne Crystal FLP;e.l.f.;Makeup;C;https://www.kicks.no/sok?search-query=839692;;https://images.matas.dk/encode/609332816756_20240823110532.jpg;28378;839692
-837176;MONDAY Conditioner Moisture 350 ml FLP;MONDAY;Hair care and styling;C;https://www.kicks.no/sok?search-query=837176;;https://images.matas.dk/encode/837176_20240926110011.jpg;28379;837176
+837176;MONDAY Conditioner Moisture 350 ml FLP;MONDAY;Hair care and styling;C;https://www.kicks.no/sok?search-query=837176;69.00;https://images.matas.dk/encode/837176_20240926110011.jpg;28379;837176
 756105;Dior Dh Shower Gel Btl 200Ml (G);DIOR;Skin care;C;https://www.kicks.no/sok?search-query=756105;;https://images.matas.dk/encode/756105_1_20260313082900.jpg;28380;756105
 803837;GOSH Lip Filler 001 Baby;Gosh Copenhagen;Makeup;C;https://www.kicks.no/sok?search-query=803837;;https://images.matas.dk/encode/803837_1_20231024085039.jpg;28381;803837
 826256;MAC Studio Fix Fluid Broad Spectrum Spf 15 Nc16 30 ml (G);MAC;Makeup;C;https://www.kicks.no/sok?search-query=826256;;https://images.matas.dk/encode/773602643417_20240416121137.jpg;28382;826256
@@ -73162,7 +73162,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 94011281;DKNY Be Delicious Summer Squeeze Edt 50ml;DKNY;Fragrances;;https://www.kicks.no/sok?search-query=94011281;;;73160;94011281
 88486189;B BROWN 2-pan customizable palette;Bobbi Brown;Makeup;;https://www.kicks.no/sok?search-query=88486189;;;73161;88486189
 44363497;ISA L.C. WP MASCARA BLUE*;IsaDora;Makeup;;https://www.kicks.no/sok?search-query=44363497;;;73162;44363497
-94121617;Monday Moisture Shampoo 350 ml;MONDAY;Hair care and styling;C;https://www.kicks.no/sok?search-query=94121617;;;73163;94121617
+94121617;Monday Moisture Shampoo 350 ml;MONDAY;Hair care and styling;C;https://www.kicks.no/sok?search-query=94121617;69.00;;73163;94121617
 94005563;Le Labo Oud 27 Natural Spray Edp:Online Assortment 100ml;Le Labo;Fragrances;;https://www.kicks.no/sok?search-query=94005563;;;73164;94005563
 90139062;G Armani Stronger With You Deostick 75 g;Armani;Fragrances;;https://www.kicks.no/sok?search-query=90139062;;;73165;90139062
 768876;Dior Coul Mono Couture E/Shad 658;DIOR;Makeup;;https://www.kicks.no/sok?search-query=768876;;;73166;768876
