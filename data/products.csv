@@ -8331,7 +8331,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 802814;EA Green Tea Citron Freesia Body Creme 500 ml;Elizabeth Arden;Skin care;;https://www.kicks.no/sok?search-query=802814;;;8329;802814
 1023526;GA ADGH Deodorant Spray + SG Gaveæske Xmas25;Armani;Fragrances;C;https://www.kicks.no/sok?search-query=1023526;;https://images.matas.dk/encode/5414726085282_20251029180402.jpg;8330;1023526
 1023985;MAY Fit Me Nude BB Cream SPF50 70 30 ml;Maybelline;Makeup;C;https://www.kicks.no/sok?search-query=1023985;;https://images.matas.dk/encode/3600531712822_20250811180209.jpg;8331;1023985
-774169;LP SE Pro Longer Masque 250Ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774169;;https://images.matas.dk/encode/774169_1_20231024094506.jpg;8332;774169
+774169;LP SE Pro Longer Masque 250Ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774169;392.00;https://images.matas.dk/encode/774169_1_20231024094506.jpg;8332;774169
 1007826;GUERLAIN Terracotta Glow Fluid Foundation 4N;Guerlain;Makeup;C;https://www.kicks.no/sok?search-query=1007826;;https://images.matas.dk/encode/3346470442382_20250129040800.jpg;8333;1007826
 1011955;COMPAGNIE DE PROVENCE Liquid Marseille Soap Cashmere 300 ml;COMPAGNIE DE PROVENCE;Skin care;C;https://www.kicks.no/sok?search-query=1011955;;https://images.matas.dk/encode/3551780003592_20241120180700.jpg;8334;1011955
 806782;Color Wow Pop + Lock High Gloss Finish 55 ml;Color Wow;Hair care and styling;A;https://www.kicks.no/sok?search-query=806782;;https://images.matas.dk/encode/806782_1_20231023221537.jpg;8335;806782
@@ -36566,7 +36566,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 739420;BAX Detangling Brush normal & thick hair (W);Björn Axén;Hair care and styling;;https://www.kicks.no/sok?search-query=739420;;;36564;739420
 1024345;Mancera Xplicit Vanilla Edp 120 ml;Mancera;Fragrances;C;https://www.kicks.no/sok?search-query=1024345;;https://images.matas.dk/encode/3760265195053_20251003180400.jpg;36565;1024345
 748085;EA Ceramide Capsules Vitamin C 30 Stk (M);Elizabeth Arden;Skin care;C;https://www.kicks.no/sok?search-query=748085;;https://images.matas.dk/encode/748085_1_20231023144757.jpg;36566;748085
-774160;LP Absolut Repair Gold Conditioner 200 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774160;208.00;https://images.matas.dk/encode/3474636976089_20250109180300.jpg;4621;774160
+774160;LP Absolut Repair Gold Conditioner 200 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774160;;https://images.matas.dk/encode/3474636976089_20250109180300.jpg;36567;774160
 1041342;LUMENE Blush 5 Amber Haze;Lumene;Makeup;;https://www.kicks.no/sok?search-query=1041342;;https://images.matas.dk/encode/6412600852554_1_20260714112500.jpg;36568;1041342
 1038246;Depend 7day Hybrid Polish 7378  5 ml;Depend;Makeup;C;https://www.kicks.no/sok?search-query=1038246;;https://images.matas.dk/encode/1038246_20260505090400.jpg;36569;1038246
 679900;MAY Fit Me Luminous + Smooth Fdt. 105 Natural Ivory (G) FLP;Maybelline;Makeup;C;https://www.kicks.no/sok?search-query=679900;;https://images.matas.dk/encode/679900_1.jpg;36570;679900
@@ -61546,7 +61546,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 746015;Duo Quick-Set Vippe lim Dark (U);DUO;Makeup;C;https://www.kicks.no/sok?search-query=746015;;;61544;746015
 685720;IDUN Minerals Nail Polish Rosenkvarts;IDUN Minerals;Makeup;C;https://www.kicks.no/sok?search-query=685720;;https://images.matas.dk/encode/7340074735044_20240523123612.jpg;61545;685720
 758799;MAC Powder Kiss Liquid Lipcolour-Make Love 5Ml;MAC;Makeup;C;https://www.kicks.no/sok?search-query=758799;;https://images.matas.dk/encode/758799_Swatch_20231027170638.jpg;61546;758799
-94171258;Garnier Hyaluron Glass Skin Jelly Ansigtsmaske 27 g;Garnier;Skin care;C;https://www.kicks.no/sok?search-query=94171258;29.00;https://images.matas.dk/encode/94171258_20260508180151.jpg;16128;94171258
+94171258;Garnier Hyaluron Glass Skin Jelly Ansigtsmaske 27 g;Garnier;Skin care;C;https://www.kicks.no/sok?search-query=94171258;;https://images.matas.dk/encode/94171258_20260508180151.jpg;61547;94171258
 811391;FentySkin Cocoa Cleanser Bar 142 GR;FENTY;Skin care;;https://www.kicks.no/sok?search-query=811391;;;61548;811391
 10368780;Lenoites Complete Lash Kit Brown 1 stk;Lenoites;Makeup;;https://www.kicks.no/sok?search-query=10368780;;;61549;10368780
 1014055;Laura Mercier Real Flawless Foundation 7N Bonbon (W);Laura Mercier;Makeup;;https://www.kicks.no/sok?search-query=1014055;;https://images.matas.dk/encode/194250090321_20250616180315.jpg;61550;1014055
@@ -66978,7 +66978,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 774358;TF Ombré Leather Parfum 100ml;TOM FORD;Fragrances;B;https://www.kicks.no/sok?search-query=774358;;https://images.matas.dk/encode/888066117692_20231204171213.jpg;66976;774358
 1002054;KORRES Sikinos Eau De Toilette 50 ml;Korres;Fragrances;;https://www.kicks.no/sok?search-query=1002054;;https://images.matas.dk/encode/5203069120350_1_20240319103529.jpg;66977;1002054
 801769;Löwengrip Feel My Heel Foot Balm 75 ml;Löwengrip;Personal care;C;https://www.kicks.no/sok?search-query=801769;;https://images.matas.dk/encode/801769_1_20231023125641.jpg;66978;801769
-823470;LP Pro Longer Shampoo 500 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=823470;;https://images.matas.dk/encode/3474636975846__1.jpg;66979;823470
+823470;LP Pro Longer Shampoo 500 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=823470;398.00;https://images.matas.dk/encode/3474636975846__1.jpg;66979;823470
 798636;PACO One Million Check out sample 2321;Rabanne;Fragrances;;https://www.kicks.no/sok?search-query=798636;;https://images.matas.dk/encode/3349668620531_20231221113314.jpg;66980;798636
 782440;KI Clearly Corrective Dark Spot Solution 50ML;Kiehl’s;Skin care;C;https://www.kicks.no/sok?search-query=782440;;https://images.matas.dk/encode/3605970363222.jpg;66981;782440
 757122;Sensai The Lipstick 3,5 g Nadeshiko Pink (G);Sensai;Makeup;B;https://www.kicks.no/sok?search-query=757122;;https://images.matas.dk/encode/4973167343593_20241009103115.jpg;66982;757122
@@ -83766,7 +83766,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 831507;PB Detangling Toning Mist with Velvet Oud 125ml 125 ml;Philip B;Hair care and styling;C;https://www.kicks.no/sok?search-query=831507;;https://images.matas.dk/encode/850014170677_20240208123506.jpg;83764;831507
 773495;SHI SS Self Refreshing Tint 425 30 ML;Shiseido;Makeup;;https://www.kicks.no/sok?search-query=773495;;;83765;773495
 767141;LOR Infaillible Brows 48H Micro Tatouage Ink Pen 3;L’Oréal Paris;Makeup;C;https://www.kicks.no/sok?search-query=767141;;https://images.matas.dk/encode/3600523939152_20250422180700.jpg;83766;767141
-823472;LP Absolut Repair Gold Shampoo 500 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=823472;398.00;https://images.matas.dk/encode/3474636975914_20250109180146.jpg;33523;823472
+823472;LP Absolut Repair Gold Shampoo 500 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=823472;;https://images.matas.dk/encode/3474636975914_20250109180146.jpg;83767;823472
 1027976;La Roche-Posay Toleriane Ultra Dermallergo Serum 30 ml;La Roche-Posay;Skin care;;https://www.kicks.no/sok?search-query=1027976;;https://images.matas.dk/encode/3337875921336_20250926180700.jpg;83768;1027976
 816328;NYX PMU Ultimate Glow Shots Glzy Gva;NYX PROFESSIONAL MAKEUP;Makeup;C;https://www.kicks.no/sok?search-query=816328;;https://images.matas.dk/encode/816328_1.jpg;83769;816328
 807126;Avène Cicalfate+ Cream 40 ml;Avène;Skin care;;https://www.kicks.no/sok?search-query=807126;;https://images.matas.dk/encode/807126_1_20231023125522.jpg;83770;807126
@@ -108806,7 +108806,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1030264;Dior Backstage Glassy Glow Stick 041;DIOR;Makeup;C;https://www.kicks.no/sok?search-query=1030264;;https://images.matas.dk/encode/3348901811798_20260529115600.jpg;108804;1030264
 816600;Depend Minilak O2 A745;Depend;Makeup;C;https://www.kicks.no/sok?search-query=816600;;https://images.matas.dk/encode/816600_1_20231020123516.jpg;108805;816600
 10370722;NAK HAIR Sea Salt Mist 250ml;NAK HAIR;Hair care and styling;;https://www.kicks.no/sok?search-query=10370722;;https://images.matas.dk/encode/9356126008309_20260820121600.jpg;108806;10370722
-774172;LP Absolut Repair Gold Shampoo 300ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774172;198.00;https://images.matas.dk/encode/3474636974214_20250109180400.jpg;36233;774172
+774172;LP Absolut Repair Gold Shampoo 300ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774172;;https://images.matas.dk/encode/3474636974214_20250109180400.jpg;108807;774172
 821598;Beauty of Joseon Calming Serum Green Tea+Panthenol 30ml;Beauty of Joseon;Skin care;C;https://www.kicks.no/sok?search-query=821598;;https://images.matas.dk/encode/8809738316412.jpg;108808;821598
 766692;Clean Classic Pure Soap EDP 60 ml (X);Clean;Fragrances;C;https://www.kicks.no/sok?search-query=766692;;https://images.matas.dk/encode/874034012137_20240305164257.jpg;108809;766692
 821616;Sol de Janeiro Rio Deo 68 57 Gram;Sol de Janeiro;Fragrances;A;https://www.kicks.no/sok?search-query=821616;;https://images.matas.dk/encode/810912034068_20260701115000.jpg;108810;821616
@@ -108820,7 +108820,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 818191;SK Nutrient Serum 30 ml;Susanne Kaufmann;Skin care;;https://www.kicks.no/sok?search-query=818191;;https://images.matas.dk/encode/818191_20231219173745.jpg;108818;818191
 836204;MIILD Soft Satin Eyeliner Pearly Champagne 1.1 Gram;MIILD;Makeup;;https://www.kicks.no/sok?search-query=836204;;https://images.matas.dk/encode/5709994022719_1_20250207180403.jpg;108819;836204
 793368;Dr. Barbara Sturm Anti-Cellulite Body Brush Medium;Dr. Barbara Sturm;Sleep and relaxation;C;https://www.kicks.no/sok?search-query=793368;;;108820;793368
-774167;LP Absolut Repair Masque Thick Hair 250 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774167;392.00;https://images.matas.dk/encode/3474636974252_20250109180300.jpg;36244;774167
+774167;LP Absolut Repair Masque Thick Hair 250 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774167;;https://images.matas.dk/encode/3474636974252_20250109180300.jpg;108821;774167
 845539;JML Wood Sage&Sea SaltLayering Coll 100 ml+9 ml+9 ml+9 ml;Jo Malone London;Fragrances;C;https://www.kicks.no/sok?search-query=845539;;https://images.matas.dk/encode/690251185634_20250730180300.jpg;108822;845539
 1018604;Kiko Milano Invisible Lip Liner;Kiko Milano;Makeup;C;https://www.kicks.no/sok?search-query=1018604;;https://images.matas.dk/encode/8059385026619_20250423180700.jpg;108823;1018604
 791467;DR CEURACLE 5A Control Clearing Toner 120 ml;Dr. Ceuracle;Skin care;C;https://www.kicks.no/sok?search-query=791467;;;108824;791467
@@ -117088,7 +117088,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 836398;Bobbi Brown Luxe Matte Liquid Lipstick Plum & Done 6ml;Bobbi Brown;Makeup;;https://www.kicks.no/sok?search-query=836398;;https://images.matas.dk/encode/716170326467_20240812025326.jpg;117086;836398
 1033299;NYX Lip Lingerie Liner Stain 09 Send Nudes 1 ml;NYX PROFESSIONAL MAKEUP;Makeup;A;https://www.kicks.no/sok?search-query=1033299;;https://images.matas.dk/encode/800897275075_20260121180905.jpg;117087;1033299
 808147;CH Noir Allure Mascara 17 Rouge Grenat OS;CHANEL;Makeup;;https://www.kicks.no/sok?search-query=808147;;https://images.matas.dk/encode/808147_1_20231023110954.jpg;117088;808147
-774161;LP SE Pro Longer Conditioner 200Ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774161;;https://images.matas.dk/encode/774161_1_20231024052548.jpg;117089;774161
+774161;LP SE Pro Longer Conditioner 200Ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=774161;208.00;https://images.matas.dk/encode/774161_1_20231024052548.jpg;117089;774161
 1003335;MILK Future Cream All Over Concealer 22NW;Milk Makeup;Makeup;;https://www.kicks.no/sok?search-query=1003335;;https://images.matas.dk/encode/840157411430_20240702164530.jpg;117090;1003335
 1002861;HYGGE Soft Reset Green Cleansing Foam 150 ml;Hyggee;Skin care;C;https://www.kicks.no/sok?search-query=1002861;;https://images.matas.dk/encode/8809561820506_20251106180400.jpg;117091;1002861
 814710;LA TIUW Care & Glow Concealer 220C 13 ml;Lancôme;Makeup;A;https://www.kicks.no/sok?search-query=814710;;https://images.matas.dk/encode/3614273988490.jpg;117092;814710
