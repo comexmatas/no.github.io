@@ -567,7 +567,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 740063;Anastasia Brow Definer Auburn;Anastasia Beverly Hills;Makeup;B;https://www.kicks.no/sok?search-query=740063;;https://images.matas.dk/encode/689304044028_20251023180900.jpg;565;740063
 832660;IGK Expensive A mla Oil Hi-Shine Topcoat 124 ml;IGK;Hair care and styling;C;https://www.kicks.no/sok?search-query=832660;;https://images.matas.dk/encode/810021403540_20240213123516.jpg;566;832660
 827060;Fenty Soft Lit Luminous Foundation 265;FENTY;Makeup;;https://www.kicks.no/sok?search-query=827060;;https://images.matas.dk/encode/840026671187_20250808180400.jpg;567;827060
-843310;LOR Telescopic Waterproof Mascara Black 8,4 ml;L’Oréal Paris;Makeup;A;https://www.kicks.no/sok?search-query=843310;;https://images.matas.dk/encode/3600524196615_20250326180428.jpg;568;843310
+843310;LOR Telescopic Waterproof Mascara Black 8,4 ml;L’Oréal Paris;Makeup;A;https://www.kicks.no/sok?search-query=843310;139.00;https://images.matas.dk/encode/3600524196615_20250326180428.jpg;568;843310
 1001343;BAREPRO 24H Skin-Perfecting Matte Liquid Foundation;bareMinerals;Makeup;;https://www.kicks.no/sok?search-query=1001343;;https://images.matas.dk/encode/194248102449_20240917172509.jpg;569;1001343
 1029543;CL Double Serum Foundation L4n 30 ml;Clarins;Makeup;A;https://www.kicks.no/sok?search-query=1029543;;https://images.matas.dk/encode/3666057362590_20260210180500.jpg;570;1029543
 1026488;Too Faced Born This Way Soft Matte Foundation Caramel 30 ml;Too Faced;Makeup;C;https://www.kicks.no/sok?search-query=1026488;;;571;1026488
@@ -9923,7 +9923,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 783789;Dior Addict Lipstick 329 Tie & Dior;DIOR;Makeup;A;https://www.kicks.no/sok?search-query=783789;;https://images.matas.dk/encode/783789_1_20260313095800.jpg;9921;783789
 1018440;Kiko Milano 3D Hydra Lipgloss 030;Kiko Milano;Makeup;C;https://www.kicks.no/sok?search-query=1018440;;https://images.matas.dk/encode/8025272604161_20250409181800.jpg;9922;1018440
 829494;Essie Gel Couture 01 Matte Top Coat;essie;Makeup;C;https://www.kicks.no/sok?search-query=829494;;https://images.matas.dk/encode/30149380_20260114180300.jpg;9923;829494
-575098;LOR Mascara Telescopic black (G);L’Oréal Paris;Makeup;AA;https://www.kicks.no/sok?search-query=575098;;https://images.matas.dk/encode/3600520881799_20250326180500.jpg;9924;575098
+575098;LOR Mascara Telescopic black (G);L’Oréal Paris;Makeup;AA;https://www.kicks.no/sok?search-query=575098;139.00;https://images.matas.dk/encode/3600520881799_20250326180500.jpg;9924;575098
 94159157;BAX Soft Hairspray 250 ml;Björn Axén;Skin care;;https://www.kicks.no/sok?search-query=94159157;;https://images.matas.dk/encode/94159157_20251128134700.jpg;9925;94159157
 819055;LU Nordic Sensitive Weightless Serum 30 ml;Lumene;Skin care;C;https://www.kicks.no/sok?search-query=819055;;https://images.matas.dk/encode/6412600828771_20240826112115.jpg;9926;819055
 696108;MAC Mineralize Skinfinish 10g Global Glow (W);MAC;Makeup;B;https://www.kicks.no/sok?search-query=696108;;https://images.matas.dk/encode/696108_Swatch_20231027192639.jpg;9927;696108
@@ -19098,7 +19098,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 804199;CH RA Velvet Luminous Matte Lip 48 Ardente;CHANEL;Makeup;C;https://www.kicks.no/sok?search-query=804199;;https://images.matas.dk/encode/804199_1_20231024041951.jpg;19096;804199
 94159953;The Body Shop Vitamin E Barrier Boost Cream 50 ml;THE BODY SHOP;Skin care;C;https://www.kicks.no/sok?search-query=94159953;;https://images.matas.dk/encode/94159953_20260213093700.jpg;19097;94159953
 668869;Dior Fahrenheit Shower Gel 200 Ml (W);DIOR;Skin care;C;https://www.kicks.no/sok?search-query=668869;;;19098;668869
-826790;got2b Glued 4 Brows & Edges Waterproof Gel 16 ml FLP;Got2b;Makeup;C;https://www.kicks.no/sok?search-query=826790;;https://images.matas.dk/encode/7332531124515_1_20250620180400.jpg;19099;826790
+826790;got2b Glued 4 Brows & Edges Waterproof Gel 16 ml FLP;Got2b;Makeup;C;https://www.kicks.no/sok?search-query=826790;59.00;https://images.matas.dk/encode/7332531124515_1_20250620180400.jpg;19099;826790
 767088;Bulldog Age Defence Serum 50 ml (U);Bulldog;Skin care;C;https://www.kicks.no/sok?search-query=767088;;https://images.matas.dk/encode/767088_1_20231024041737.jpg;19100;767088
 1021639;GA SI Parfum 100 ml (U);Armani;Fragrances;B;https://www.kicks.no/sok?search-query=1021639;;https://images.matas.dk/encode/3614274322262_20250915180617.jpg;19101;1021639
 1006837;XERJOFF Torino23 EdP 50 ml;XERJOFF;Fragrances;;https://www.kicks.no/sok?search-query=1006837;;https://images.matas.dk/encode/8054320902485_20240913134012.jpg;19102;1006837
@@ -22090,7 +22090,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 829759;Moschino Toy 2 Pearl EDP 50ml;Moschino;Fragrances;C;https://www.kicks.no/sok?search-query=829759;;https://images.matas.dk/encode/8011003878604_20260408180338.jpg;22088;829759
 844062;RITUALS The Ritual of Ayurveda Fragrance Sticks Refill 500ml;RITUALS;Sleep and relaxation;B;https://www.kicks.no/sok?search-query=844062;;https://images.matas.dk/encode/8719134179866_1_20250114180100.jpg;22089;844062
 776204;MINERALIST Lip Gloss-Balm;bareMinerals;Makeup;C;https://www.kicks.no/sok?search-query=776204;;https://images.matas.dk/encode/194248007874_20240115173537.jpg;22090;776204
-843250;Got2b Glued 4 Brows & Edges Tinted Gel 2 in 1 Brown (W) FLP;Got2b;Hair care and styling;C;https://www.kicks.no/sok?search-query=843250;;https://images.matas.dk/encode/7332531122245_1_20250620180300.jpg;22091;843250
+843250;Got2b Glued 4 Brows & Edges Tinted Gel 2 in 1 Brown (W) FLP;Got2b;Hair care and styling;C;https://www.kicks.no/sok?search-query=843250;59.00;https://images.matas.dk/encode/7332531122245_1_20250620180300.jpg;22091;843250
 685696;IDUN Minerals Matte Lipstick Björnbär;IDUN Minerals;Makeup;;https://www.kicks.no/sok?search-query=685696;;https://images.matas.dk/encode/7340074761067_1_20250912121500.jpg;22092;685696
 824574;Sisley Phyto Sourcils Design 5 Taupe;Sisley;Makeup;C;https://www.kicks.no/sok?search-query=824574;;https://images.matas.dk/encode/3473311875259_01_20240125153537.jpg;22093;824574
 698034;NYX PMU Slim Lip Pencil - Natural (G);NYX PROFESSIONAL MAKEUP;Makeup;B;https://www.kicks.no/sok?search-query=698034;;https://images.matas.dk/encode/698034_1.jpg;22094;698034
@@ -30453,7 +30453,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 735442;PTR Water Drench Eye Patches (60 stk)  (P);Peter Thomas Roth;Skin care;C;https://www.kicks.no/sok?search-query=735442;;https://images.matas.dk/encode/670367007419_20240423153731.jpg;30451;735442
 594284;Essie Lapiz of Luxury 94 (M);essie;Makeup;C;https://www.kicks.no/sok?search-query=594284;;https://images.matas.dk/encode/30095960_1_20240313154708.jpg;30452;594284
 1027409;COOHÉ Eucalyptus Essential Oil  5ml;COOHÉ;Sleep and relaxation;B;https://www.kicks.no/sok?search-query=1027409;;https://images.matas.dk/encode/5744006930774_1_20260518180328.jpg;30453;1027409
-665623;MAY Mascara Volum’ Express Lash Sens’ Very Black (P) FLP;Maybelline;Makeup;A;https://www.kicks.no/sok?search-query=665623;;https://images.matas.dk/encode/3600531143459_0_20240808082443.jpg;30454;665623
+665623;MAY Mascara Volum’ Express Lash Sens’ Very Black (P) FLP;Maybelline;Makeup;A;https://www.kicks.no/sok?search-query=665623;114.00;https://images.matas.dk/encode/3600531143459_0_20240808082443.jpg;30454;665623
 679718;NJ bryn Brow Auto Pen Medium Brown 216 (U);Nilens Jord;Makeup;;https://www.kicks.no/sok?search-query=679718;;https://images.matas.dk/encode/5709994011881_1_20250908065400.jpg;30455;679718
 759628;TO Matrixyl 10% + HA 30 ml (W);The Ordinary;Skin care;B;https://www.kicks.no/sok?search-query=759628;;;30456;759628
 1003297;MILK Odyssey Lip Oil Gloss Soul Search;Milk Makeup;Makeup;C;https://www.kicks.no/sok?search-query=1003297;;https://images.matas.dk/encode/840157411997_20240702154957.jpg;30457;1003297
