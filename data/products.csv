@@ -1337,7 +1337,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 1040140;Sensai Volumising Shampoo For Scalp & Hair 300 ml;Sensai;Fragrances;;https://www.kicks.no/sok?search-query=1040140;;https://images.matas.dk/encode/1040140_20260707132900.jpg;1335;1040140
 793794;Depend Press & Go French Look Rosa Kort;Depend;Makeup;;https://www.kicks.no/sok?search-query=793794;;https://images.matas.dk/encode/793794_20240408093449.jpg;1336;793794
 801774;Löwengrip Healthy Glow Body Scrub 175 ml;Löwengrip;Skin care;C;https://www.kicks.no/sok?search-query=801774;;https://images.matas.dk/encode/801774_1_20231023172353.jpg;1337;801774
-591109;LOR Mascara Volume Million Lashes black (G);L’Oréal Paris;Makeup;A;https://www.kicks.no/sok?search-query=591109;;https://images.matas.dk/encode/3600521821152__1_20231228164909.jpg;1338;591109
+591109;LOR Mascara Volume Million Lashes black (G);L’Oréal Paris;Makeup;A;https://www.kicks.no/sok?search-query=591109;154.00;https://images.matas.dk/encode/3600521821152__1_20231228164909.jpg;1338;591109
 1040523;EMB Lait Creme Matifiant Oil Free 75 ml;Embryolisse;Skin care;;https://www.kicks.no/sok?search-query=1040523;;https://images.matas.dk/encode/3350900003173_20260703181341.jpg;1339;1040523
 10356704;Anastasia Kiss Theory Lip Balm - Fizzy 1,0g;Anastasia Beverly Hills;Makeup;;https://www.kicks.no/sok?search-query=10356704;;https://images.matas.dk/encode/689304051347_20260623154300.jpg;1340;10356704
 1038376;Million Gold For Her Red Eau de Parfum 50 ml;Rabanne;Fragrances;;https://www.kicks.no/sok?search-query=1038376;;https://images.matas.dk/encode/3349668664887_1_20260630103700.jpg;1341;1038376
@@ -30377,7 +30377,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 830980;Xlash Sensitive Eyelash Serum 3ml;Xlash;Makeup;AA;https://www.kicks.no/sok?search-query=830980;;https://images.matas.dk/encode/7350128931513_20240425144543.jpg;30375;830980
 1002028;KORRES Black Pine 360° Eye-Lift Super Serum 15 ml;Korres;Skin care;;https://www.kicks.no/sok?search-query=1002028;;https://images.matas.dk/encode/5203069099434_20240319103617.jpg;30376;1002028
 825447;Valentino BIR The Gold Uomo Edt 100 ml (OS);Valentino;Fragrances;C;https://www.kicks.no/sok?search-query=825447;;https://images.matas.dk/encode/3614274217155_20240920114216.jpg;30377;825447
-704712;MF 2000 Calorie Mascara Black Original (G) FLP;Max Factor;Makeup;C;https://www.kicks.no/sok?search-query=704712;;https://images.matas.dk/encode/50671304-swatch_20260821162700.jpg;30378;704712
+704712;MF 2000 Calorie Mascara Black Original (G) FLP;Max Factor;Makeup;C;https://www.kicks.no/sok?search-query=704712;109.00;https://images.matas.dk/encode/50671304-swatch_20260821162700.jpg;30378;704712
 1001629;JPG Gaultier Divine Le Parfum Parfum refill bottle 200 ML (W;Jean Paul Gaultier;Fragrances;C;https://www.kicks.no/sok?search-query=1001629;;https://images.matas.dk/encode/8435415091787_20260317082100.jpg;30379;1001629
 807095;A-DERMA Dermalibour+ Foaming CICA-Gel  200 ml;A-DERMA;Skin care;;https://www.kicks.no/sok?search-query=807095;;https://images.matas.dk/encode/807095_1_20231023101913.jpg;30380;807095
 814944;Fenty Eaze Drop Blurring Skin Tint Stick 06;FENTY;Makeup;;https://www.kicks.no/sok?search-query=814944;;https://images.matas.dk/encode/840026666459_20231025153220.jpg;30381;814944
@@ -33528,7 +33528,7 @@ Product ID;Product;Brand;Category;pricing_role_category;URL;Price;Image URL;__ro
 795958;La Bruket 069 Hand & Body Wash Lemongrass 240 ml;LA BRUKET;Skin care;C;https://www.kicks.no/sok?search-query=795958;;;33526;795958
 797295;ACO Face Age Delay Day Cream Normal Skin p 50 ml;ACO;Skin care;;https://www.kicks.no/sok?search-query=797295;;https://images.matas.dk/encode/797295_1_20231024105535.jpg;33527;797295
 812939;Laura Mercier Real Flawless Foundation 3C2 toffee;Laura Mercier;Makeup;;https://www.kicks.no/sok?search-query=812939;;https://images.matas.dk/encode/194250010596_20250319180819.jpg;33528;812939
-902848;MF Masterpiece Max Mascara Black/Brown;Max Factor;Makeup;B;https://www.kicks.no/sok?search-query=902848;;https://images.matas.dk/encode/3614225853524_20241001133214.jpg;33529;902848
+902848;MF Masterpiece Max Mascara Black/Brown;Max Factor;Makeup;B;https://www.kicks.no/sok?search-query=902848;129.00;https://images.matas.dk/encode/3614225853524_20241001133214.jpg;33529;902848
 745739;LP Fix Anti-Frizz 250 ml;L’Oréal Professionnel;Hair care and styling;C;https://www.kicks.no/sok?search-query=745739;;https://images.matas.dk/encode/30162822_20250415180422.jpg;33530;745739
 692773;NYX PMU Face & Body Glitter - Bronze (U);NYX PROFESSIONAL MAKEUP;Makeup;C;https://www.kicks.no/sok?search-query=692773;;https://images.matas.dk/encode/692773_1.jpg;33531;692773
 794267;Aveda Shampure Conditioner 250 ml;Aveda;Hair care and styling;C;https://www.kicks.no/sok?search-query=794267;;https://images.matas.dk/encode/018084998083_20260128093900.jpg;33532;794267
